@@ -1,4 +1,4 @@
-# Image-Inpainting-Proyect
+# Image Inpainting Across Domains: A Comparison of GAN and Diffusion-Based Methods
 
 This repository contains the data used in our paper
 "Image Inpainting Across Domains: A Comparison of GAN and Diffusion-Based
@@ -14,3 +14,4 @@ All experiments use:
 - Identical irregular masks across methods
 
 Authors: Emilija Ivkovic and Emilia Marti.
+
